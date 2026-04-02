@@ -1,0 +1,409 @@
+review_id,date,author,aspect,aspect_detail,opinion,sentiment_score,aspect_sentiment,derived_sentiment,is_service_killer,original_text
+rev_1,03/28/2026 16:53:17,Paul Chan,Seimen,Taste,Similar to Japan food,0.9,Positive,Positive,FALSE,"4.8/5.0 Taste similar to food during my Japan trip.
+Price is right and food quality is almost the same as I've taste during my Japan trip. Strongly recommend this place."
+rev_1,03/28/2026 16:53:17,Paul Chan,Value,Price,Price is right,0.9,Positive,Positive,FALSE,"4.8/5.0 Taste similar to food during my Japan trip.
+Price is right and food quality is almost the same as I've taste during my Japan trip. Strongly recommend this place."
+rev_1,03/28/2026 16:53:17,Paul Chan,Seimen,Food quality,Almost same as Japan,0.9,Positive,Positive,FALSE,"4.8/5.0 Taste similar to food during my Japan trip.
+Price is right and food quality is almost the same as I've taste during my Japan trip. Strongly recommend this place."
+rev_2,03/28/2026 09:56:16,Lilian,Yusen & Prep,wait time,not worth the wait,-0.9,Negative,Negative,TRUE,"A fun udon spot to try out, cafeteria style! Udon is made fresh on onsite. I got the beef udon with 2 shrimp tempura, it was good but not worth the 1 hour 10 mins on Saturday night at 7pm. Udon texture was a bit too dense and not bouncy. The beef on the udon was delicious though! Shrimp tempura was crispy and light, but had a lot of batter. Just stick to one piece. Overall not bad for $20 but only worth coming if there’s no line."
+rev_3,03/28/2026 06:38:47,J,Seimen,Udon noodles,soft and chewy,0.8,Positive,Positive,FALSE,"Loved it! Udon noodles were soft and chewy, they were so good. The tempura was also really fresh and delicious. The squid tempura, in particular, was super tender, moist, and flavorful! The sauces were selfserve, which was a bit inconvenient, but being able to choose different ones and dip the toppings actually made it even better."
+rev_3,03/28/2026 06:38:47,J,Tempura,tempura,fresh and delicious,0.8,Positive,Positive,FALSE,"Loved it! Udon noodles were soft and chewy, they were so good. The tempura was also really fresh and delicious. The squid tempura, in particular, was super tender, moist, and flavorful! The sauces were selfserve, which was a bit inconvenient, but being able to choose different ones and dip the toppings actually made it even better."
+rev_3,03/28/2026 06:38:47,J,Tempura,squid tempura,"tender, moist, flavorful",0.9,Positive,Positive,FALSE,"Loved it! Udon noodles were soft and chewy, they were so good. The tempura was also really fresh and delicious. The squid tempura, in particular, was super tender, moist, and flavorful! The sauces were selfserve, which was a bit inconvenient, but being able to choose different ones and dip the toppings actually made it even better."
+rev_3,03/28/2026 06:38:47,J,Yusen & Prep,sauces,selfserve inconvenient,0.6,Positive,Positive,FALSE,"Loved it! Udon noodles were soft and chewy, they were so good. The tempura was also really fresh and delicious. The squid tempura, in particular, was super tender, moist, and flavorful! The sauces were selfserve, which was a bit inconvenient, but being able to choose different ones and dip the toppings actually made it even better."
+rev_4,03/27/2026 17:16:57,Kristann Raveendran,Seimen,udon,Excellent,1,Positive,Positive,FALSE,Excellent udon and efficient service. Worth the wait in line.
+rev_4,03/27/2026 17:16:57,Kristann Raveendran,Service,service,efficient,1,Positive,Positive,FALSE,Excellent udon and efficient service. Worth the wait in line.
+rev_4,03/27/2026 17:16:57,Kristann Raveendran,Value,wait time,worth waiting,1,Positive,Positive,FALSE,Excellent udon and efficient service. Worth the wait in line.
+rev_5,03/27/2026 02:25:43,Simon W,Yusen & Prep,wait time,Long wait,-0.8,Negative,Negative,TRUE,"Came on day 3 of the soft opening and waited 40 minute from the washroom until the point of payment.
+
+Heard great things about this place and I thought it met expectations. I ordered the large #6 curry udon and loaded up on some tempura. The noodles I felt weren't as chewy for freshly made udon, maybe it was over cooked. The squid tempura was really good, but I wouldn't get the chicken tempura again because it was a bit greasy. Two of my friends got egg tempura and one was overcooked so it wasn't runny unfortunately :(. Service was really good as there was staff helping us scope out a table.
+
+Would recommend and would come back, but when there's a shorter wait."
+rev_5,03/27/2026 02:25:43,Simon W,Seimen,curry udon,Met expectations,0,Neutral,Neutral,FALSE,"Came on day 3 of the soft opening and waited 40 minute from the washroom until the point of payment.
+
+Heard great things about this place and I thought it met expectations. I ordered the large #6 curry udon and loaded up on some tempura. The noodles I felt weren't as chewy for freshly made udon, maybe it was over cooked. The squid tempura was really good, but I wouldn't get the chicken tempura again because it was a bit greasy. Two of my friends got egg tempura and one was overcooked so it wasn't runny unfortunately :(. Service was really good as there was staff helping us scope out a table.
+
+Would recommend and would come back, but when there's a shorter wait."
+rev_5,03/27/2026 02:25:43,Simon W,Seimen,noodles,Not as chewy,-0.7,Negative,Negative,TRUE,"Came on day 3 of the soft opening and waited 40 minute from the washroom until the point of payment.
+
+Heard great things about this place and I thought it met expectations. I ordered the large #6 curry udon and loaded up on some tempura. The noodles I felt weren't as chewy for freshly made udon, maybe it was over cooked. The squid tempura was really good, but I wouldn't get the chicken tempura again because it was a bit greasy. Two of my friends got egg tempura and one was overcooked so it wasn't runny unfortunately :(. Service was really good as there was staff helping us scope out a table.
+
+Would recommend and would come back, but when there's a shorter wait."
+rev_5,03/27/2026 02:25:43,Simon W,Tempura,squid tempura,Really good,0.9,Positive,Positive,FALSE,"Came on day 3 of the soft opening and waited 40 minute from the washroom until the point of payment.
+
+Heard great things about this place and I thought it met expectations. I ordered the large #6 curry udon and loaded up on some tempura. The noodles I felt weren't as chewy for freshly made udon, maybe it was over cooked. The squid tempura was really good, but I wouldn't get the chicken tempura again because it was a bit greasy. Two of my friends got egg tempura and one was overcooked so it wasn't runny unfortunately :(. Service was really good as there was staff helping us scope out a table.
+
+Would recommend and would come back, but when there's a shorter wait."
+rev_5,03/27/2026 02:25:43,Simon W,Tempura,chicken tempura,Greasy,-0.8,Negative,Negative,TRUE,"Came on day 3 of the soft opening and waited 40 minute from the washroom until the point of payment.
+
+Heard great things about this place and I thought it met expectations. I ordered the large #6 curry udon and loaded up on some tempura. The noodles I felt weren't as chewy for freshly made udon, maybe it was over cooked. The squid tempura was really good, but I wouldn't get the chicken tempura again because it was a bit greasy. Two of my friends got egg tempura and one was overcooked so it wasn't runny unfortunately :(. Service was really good as there was staff helping us scope out a table.
+
+Would recommend and would come back, but when there's a shorter wait."
+rev_5,03/27/2026 02:25:43,Simon W,Tempura,egg tempura,Overcooked,-0.7,Negative,Negative,TRUE,"Came on day 3 of the soft opening and waited 40 minute from the washroom until the point of payment.
+
+Heard great things about this place and I thought it met expectations. I ordered the large #6 curry udon and loaded up on some tempura. The noodles I felt weren't as chewy for freshly made udon, maybe it was over cooked. The squid tempura was really good, but I wouldn't get the chicken tempura again because it was a bit greasy. Two of my friends got egg tempura and one was overcooked so it wasn't runny unfortunately :(. Service was really good as there was staff helping us scope out a table.
+
+Would recommend and would come back, but when there's a shorter wait."
+rev_5,03/27/2026 02:25:43,Simon W,Service,service,Really good,0.9,Positive,Positive,FALSE,"Came on day 3 of the soft opening and waited 40 minute from the washroom until the point of payment.
+
+Heard great things about this place and I thought it met expectations. I ordered the large #6 curry udon and loaded up on some tempura. The noodles I felt weren't as chewy for freshly made udon, maybe it was over cooked. The squid tempura was really good, but I wouldn't get the chicken tempura again because it was a bit greasy. Two of my friends got egg tempura and one was overcooked so it wasn't runny unfortunately :(. Service was really good as there was staff helping us scope out a table.
+
+Would recommend and would come back, but when there's a shorter wait."
+rev_6,03/27/2026 02:01:14,Sarah T,Value,cheaper,cheaper,1,Positive,Positive,FALSE,cheaper and even better than the waikiki location <3
+rev_6,03/27/2026 02:01:14,Sarah T,Service,even better,great,1,Positive,Positive,FALSE,cheaper and even better than the waikiki location <3
+rev_8,03/26/2026 00:55:53,Hien Nguyen,Seimen,food,great,1,Positive,Positive,FALSE,Cafeteria-style dining experience. Food was great; no complaints.
+rev_10,03/25/2026 20:15:16,Chloe Lee,Tempura,Tempura batter,too thick,-0.7,Negative,Negative,TRUE,"Nothing special and not worth a long trip. Tempura batter was too thick and noodles were just okay. Tempura egg was good though and portions are decent.
+
+Good thing is no wait!"
+rev_10,03/25/2026 20:15:16,Chloe Lee,Seimen,Noodles,just okay,0,Neutral,Neutral,FALSE,"Nothing special and not worth a long trip. Tempura batter was too thick and noodles were just okay. Tempura egg was good though and portions are decent.
+
+Good thing is no wait!"
+rev_10,03/25/2026 20:15:16,Chloe Lee,Tempura,Tempura egg,good,0.7,Positive,Positive,FALSE,"Nothing special and not worth a long trip. Tempura batter was too thick and noodles were just okay. Tempura egg was good though and portions are decent.
+
+Good thing is no wait!"
+rev_10,03/25/2026 20:15:16,Chloe Lee,Value,Portions,decent,0,Neutral,Neutral,FALSE,"Nothing special and not worth a long trip. Tempura batter was too thick and noodles were just okay. Tempura egg was good though and portions are decent.
+
+Good thing is no wait!"
+rev_10,03/25/2026 20:15:16,Chloe Lee,Service,Wait time,no wait,0.8,Positive,Positive,FALSE,"Nothing special and not worth a long trip. Tempura batter was too thick and noodles were just okay. Tempura egg was good though and portions are decent.
+
+Good thing is no wait!"
+rev_13,03/24/2026 21:35:27,tania martina,Service,Self serve,Self serve,0,Neutral,Neutral,FALSE,Self serve and No tipping!
+rev_13,03/24/2026 21:35:27,tania martina,Value,No tipping,No tipping,0,Neutral,Neutral,FALSE,Self serve and No tipping!
+rev_14,03/24/2026 16:03:00,Paul Murata,Seimen,udon,is great,1,Positive,Positive,FALSE,"Not bad at all. The ingredients are fresh and the place brings back memories of Japan. It's still very new so it gets pretty crowded at times but the line goes fairly quickly and people eating don't stay too long so there's a good flow.
+Udon is great and tempura extras are good. Goyza was ""ma-ma"" but everything else was good.
+Had to wait a bit for curry to be ready (surprised since we just got there when it opened so why wasnt it ready?) But, otherwise, all went okay."
+rev_14,03/24/2026 16:03:00,Paul Murata,Tempura,tempura extras,are good,1,Positive,Positive,FALSE,"Not bad at all. The ingredients are fresh and the place brings back memories of Japan. It's still very new so it gets pretty crowded at times but the line goes fairly quickly and people eating don't stay too long so there's a good flow.
+Udon is great and tempura extras are good. Goyza was ""ma-ma"" but everything else was good.
+Had to wait a bit for curry to be ready (surprised since we just got there when it opened so why wasnt it ready?) But, otherwise, all went okay."
+rev_14,03/24/2026 16:03:00,Paul Murata,Tempura,goyza,was ma-ma,0,Neutral,Neutral,FALSE,"Not bad at all. The ingredients are fresh and the place brings back memories of Japan. It's still very new so it gets pretty crowded at times but the line goes fairly quickly and people eating don't stay too long so there's a good flow.
+Udon is great and tempura extras are good. Goyza was ""ma-ma"" but everything else was good.
+Had to wait a bit for curry to be ready (surprised since we just got there when it opened so why wasnt it ready?) But, otherwise, all went okay."
+rev_14,03/24/2026 16:03:00,Paul Murata,Yusen & Prep,curry preparation,wait a bit,-0.5,Negative,Negative,FALSE,"Not bad at all. The ingredients are fresh and the place brings back memories of Japan. It's still very new so it gets pretty crowded at times but the line goes fairly quickly and people eating don't stay too long so there's a good flow.
+Udon is great and tempura extras are good. Goyza was ""ma-ma"" but everything else was good.
+Had to wait a bit for curry to be ready (surprised since we just got there when it opened so why wasnt it ready?) But, otherwise, all went okay."
+rev_15,03/24/2026 13:45:21,DFX,Value,Value,great affordable lunch spot,0.8,Positive,Positive,FALSE,"An affordable cafeteria style sit down restaurant with udon and tempura dishes. There are not many options when it comes to healthier sides or vegetables.
+
+Overall, it can be a great affordable lunch spot if you are around the area, but personally it was not worth lining up for or going out of your way to visit."
+rev_15,03/24/2026 13:45:21,DFX,Yusen & Prep,Wait time,not worth lining up for,-0.7,Negative,Negative,TRUE,"An affordable cafeteria style sit down restaurant with udon and tempura dishes. There are not many options when it comes to healthier sides or vegetables.
+
+Overall, it can be a great affordable lunch spot if you are around the area, but personally it was not worth lining up for or going out of your way to visit."
+rev_15,03/24/2026 13:45:21,DFX,Yusen & Prep,Menu variety,not many options,-0.6,Negative,Negative,TRUE,"An affordable cafeteria style sit down restaurant with udon and tempura dishes. There are not many options when it comes to healthier sides or vegetables.
+
+Overall, it can be a great affordable lunch spot if you are around the area, but personally it was not worth lining up for or going out of your way to visit."
+rev_16,03/24/2026 13:22:57,Candy Choi,Seimen,broth,flavorful and comfortable,0.9,Positive,Positive,FALSE,"A solid bang for your buck, no frills udon spot that brings a new Japanese restaurant to the neighborhood. The broth is flavorful and comfortable, and the noodles have a light chew and bounce. There's lots of tempura and sides to choose from, as well as a small drink selection of both Western and Japanese offerings.
+
+Going on Monday right at 12pm, the wait in line was about 20 minutes and moved quickly. Finding seating isn't too difficult as turnover is fast. Make sure to remember to bring your tray and clear your table before you leave. I was in and out within the hour."
+rev_16,03/24/2026 13:22:57,Candy Choi,Yusen & Prep,noodles,light chew,0.8,Positive,Positive,FALSE,"A solid bang for your buck, no frills udon spot that brings a new Japanese restaurant to the neighborhood. The broth is flavorful and comfortable, and the noodles have a light chew and bounce. There's lots of tempura and sides to choose from, as well as a small drink selection of both Western and Japanese offerings.
+
+Going on Monday right at 12pm, the wait in line was about 20 minutes and moved quickly. Finding seating isn't too difficult as turnover is fast. Make sure to remember to bring your tray and clear your table before you leave. I was in and out within the hour."
+rev_16,03/24/2026 13:22:57,Candy Choi,Tempura,tempura,lots to choose,0.8,Positive,Positive,FALSE,"A solid bang for your buck, no frills udon spot that brings a new Japanese restaurant to the neighborhood. The broth is flavorful and comfortable, and the noodles have a light chew and bounce. There's lots of tempura and sides to choose from, as well as a small drink selection of both Western and Japanese offerings.
+
+Going on Monday right at 12pm, the wait in line was about 20 minutes and moved quickly. Finding seating isn't too difficult as turnover is fast. Make sure to remember to bring your tray and clear your table before you leave. I was in and out within the hour."
+rev_16,03/24/2026 13:22:57,Candy Choi,Yusen & Prep,drink selection,small selection,0,Neutral,Neutral,FALSE,"A solid bang for your buck, no frills udon spot that brings a new Japanese restaurant to the neighborhood. The broth is flavorful and comfortable, and the noodles have a light chew and bounce. There's lots of tempura and sides to choose from, as well as a small drink selection of both Western and Japanese offerings.
+
+Going on Monday right at 12pm, the wait in line was about 20 minutes and moved quickly. Finding seating isn't too difficult as turnover is fast. Make sure to remember to bring your tray and clear your table before you leave. I was in and out within the hour."
+rev_16,03/24/2026 13:22:57,Candy Choi,Service,wait time,short wait,0.7,Positive,Positive,FALSE,"A solid bang for your buck, no frills udon spot that brings a new Japanese restaurant to the neighborhood. The broth is flavorful and comfortable, and the noodles have a light chew and bounce. There's lots of tempura and sides to choose from, as well as a small drink selection of both Western and Japanese offerings.
+
+Going on Monday right at 12pm, the wait in line was about 20 minutes and moved quickly. Finding seating isn't too difficult as turnover is fast. Make sure to remember to bring your tray and clear your table before you leave. I was in and out within the hour."
+rev_16,03/24/2026 13:22:57,Candy Choi,Service,seating,easy to find,0.8,Positive,Positive,FALSE,"A solid bang for your buck, no frills udon spot that brings a new Japanese restaurant to the neighborhood. The broth is flavorful and comfortable, and the noodles have a light chew and bounce. There's lots of tempura and sides to choose from, as well as a small drink selection of both Western and Japanese offerings.
+
+Going on Monday right at 12pm, the wait in line was about 20 minutes and moved quickly. Finding seating isn't too difficult as turnover is fast. Make sure to remember to bring your tray and clear your table before you leave. I was in and out within the hour."
+rev_16,03/24/2026 13:22:57,Candy Choi,Value,value,bang for buck,0.9,Positive,Positive,FALSE,"A solid bang for your buck, no frills udon spot that brings a new Japanese restaurant to the neighborhood. The broth is flavorful and comfortable, and the noodles have a light chew and bounce. There's lots of tempura and sides to choose from, as well as a small drink selection of both Western and Japanese offerings.
+
+Going on Monday right at 12pm, the wait in line was about 20 minutes and moved quickly. Finding seating isn't too difficult as turnover is fast. Make sure to remember to bring your tray and clear your table before you leave. I was in and out within the hour."
+rev_17,03/24/2026 06:39:04,Nat,Seimen,food,good but nothing outstanding,0.5,Positive,Positive,FALSE,"very excited to try this restaurant. The food we had overall was good but nothing outstanding, can't argue since the price point is great and service was super quick and friendly despite the long line. The lineup inside is a but confusing though as they take up space and people just try to reserve seats even though they're so far along in the line."
+rev_17,03/24/2026 06:39:04,Nat,Value,price point,price point is great,0.9,Positive,Positive,FALSE,"very excited to try this restaurant. The food we had overall was good but nothing outstanding, can't argue since the price point is great and service was super quick and friendly despite the long line. The lineup inside is a but confusing though as they take up space and people just try to reserve seats even though they're so far along in the line."
+rev_17,03/24/2026 06:39:04,Nat,Service,service,service was super quick and friendly,0.8,Positive,Positive,FALSE,"very excited to try this restaurant. The food we had overall was good but nothing outstanding, can't argue since the price point is great and service was super quick and friendly despite the long line. The lineup inside is a but confusing though as they take up space and people just try to reserve seats even though they're so far along in the line."
+rev_17,03/24/2026 06:39:04,Nat,Yusen & Prep,lineup inside,lineup inside is confusing,-0.5,Negative,Negative,FALSE,"very excited to try this restaurant. The food we had overall was good but nothing outstanding, can't argue since the price point is great and service was super quick and friendly despite the long line. The lineup inside is a but confusing though as they take up space and people just try to reserve seats even though they're so far along in the line."
+rev_18,03/24/2026 06:36:34,Molybdenum O,Seimen,plain udon,recommended plain,0.8,Positive,Positive,FALSE,I recommend getting plain udon and then load up on the tempura and side dishes
+rev_18,03/24/2026 06:36:34,Molybdenum O,Tempura,tempura,load up positive,0.8,Positive,Positive,FALSE,I recommend getting plain udon and then load up on the tempura and side dishes
+rev_18,03/24/2026 06:36:34,Molybdenum O,Yusen & Prep,side dishes,load up side,0.8,Positive,Positive,FALSE,I recommend getting plain udon and then load up on the tempura and side dishes
+rev_21,03/23/2026 20:44:38,Alan Lam,Seimen,kake broth,"savory, comforting",0.9,Positive,Positive,FALSE,"Marugame Udon is known for making their udon fresh in-house, and that’s a big part of the appeal. You can actually watch them smashing the dough, cutting the noodles, and boiling everything fresh right in front of you. They even measure each bowl precisely, so there’s a real sense of consistency in what you’re getting. I tried the Kake Udon in a large size, which is their classic fish stock soup, and the broth was really tastey: savoury, comforting, with just the right amount of richness, fat, and saltiness without feeling too heavy. The noodles were also spot on, with that proper chewy texture you want from fresh udon. I added the Chicken Katsu and Shrimp Tempura on the side. The Katsu was actually really good, and the portion size felt worth the price. That said, once you start adding sides and a drink, it adds up fast, my total came to $28 after tax with just a bottle of water. If you stick to just the udon and maybe one extra, you can probably keep it closer to around $20. I got the large, but honestly if you have a smaller appetite, the small is probably more than enough. I liked the fast, efficient vibe, but the place is also well designed with lots of seating, so it still feels comfortable and not too hectic. Overall, solid spot if you want fresh udon in a casual setting that still feels nice, just know the add-ons can push the bill up pretty quickly."
+rev_21,03/23/2026 20:44:38,Alan Lam,Yusen & Prep,udon noodles,proper chewy texture,0.9,Positive,Positive,FALSE,"Marugame Udon is known for making their udon fresh in-house, and that’s a big part of the appeal. You can actually watch them smashing the dough, cutting the noodles, and boiling everything fresh right in front of you. They even measure each bowl precisely, so there’s a real sense of consistency in what you’re getting. I tried the Kake Udon in a large size, which is their classic fish stock soup, and the broth was really tastey: savoury, comforting, with just the right amount of richness, fat, and saltiness without feeling too heavy. The noodles were also spot on, with that proper chewy texture you want from fresh udon. I added the Chicken Katsu and Shrimp Tempura on the side. The Katsu was actually really good, and the portion size felt worth the price. That said, once you start adding sides and a drink, it adds up fast, my total came to $28 after tax with just a bottle of water. If you stick to just the udon and maybe one extra, you can probably keep it closer to around $20. I got the large, but honestly if you have a smaller appetite, the small is probably more than enough. I liked the fast, efficient vibe, but the place is also well designed with lots of seating, so it still feels comfortable and not too hectic. Overall, solid spot if you want fresh udon in a casual setting that still feels nice, just know the add-ons can push the bill up pretty quickly."
+rev_21,03/23/2026 20:44:38,Alan Lam,Yusen & Prep,fresh preparation,"appealing, fresh",0.9,Positive,Positive,FALSE,"Marugame Udon is known for making their udon fresh in-house, and that’s a big part of the appeal. You can actually watch them smashing the dough, cutting the noodles, and boiling everything fresh right in front of you. They even measure each bowl precisely, so there’s a real sense of consistency in what you’re getting. I tried the Kake Udon in a large size, which is their classic fish stock soup, and the broth was really tastey: savoury, comforting, with just the right amount of richness, fat, and saltiness without feeling too heavy. The noodles were also spot on, with that proper chewy texture you want from fresh udon. I added the Chicken Katsu and Shrimp Tempura on the side. The Katsu was actually really good, and the portion size felt worth the price. That said, once you start adding sides and a drink, it adds up fast, my total came to $28 after tax with just a bottle of water. If you stick to just the udon and maybe one extra, you can probably keep it closer to around $20. I got the large, but honestly if you have a smaller appetite, the small is probably more than enough. I liked the fast, efficient vibe, but the place is also well designed with lots of seating, so it still feels comfortable and not too hectic. Overall, solid spot if you want fresh udon in a casual setting that still feels nice, just know the add-ons can push the bill up pretty quickly."
+rev_21,03/23/2026 20:44:38,Alan Lam,Yusen & Prep,chicken katsu,,0,Neutral,Neutral,FALSE,"Marugame Udon is known for making their udon fresh in-house, and that’s a big part of the appeal. You can actually watch them smashing the dough, cutting the noodles, and boiling everything fresh right in front of you. They even measure each bowl precisely, so there’s a real sense of consistency in what you’re getting. I tried the Kake Udon in a large size, which is their classic fish stock soup, and the broth was really tastey: savoury, comforting, with just the right amount of richness, fat, and saltiness without feeling too heavy. The noodles were also spot on, with that proper chewy texture you want from fresh udon. I added the Chicken Katsu and Shrimp Tempura on the side. The Katsu was actually really good, and the portion size felt worth the price. That said, once you start adding sides and a drink, it adds up fast, my total came to $28 after tax with just a bottle of water. If you stick to just the udon and maybe one extra, you can probably keep it closer to around $20. I got the large, but honestly if you have a smaller appetite, the small is probably more than enough. I liked the fast, efficient vibe, but the place is also well designed with lots of seating, so it still feels comfortable and not too hectic. Overall, solid spot if you want fresh udon in a casual setting that still feels nice, just know the add-ons can push the bill up pretty quickly."
+rev_23,03/23/2026 18:52:51,Duong Tran,Seimen,broth,dont like,-1,Negative,Negative,TRUE,Overhype. I dont like broth at all. I gave up most of my bowl. Service is great but could be not enough space. Ramen is still better.
+rev_23,03/23/2026 18:52:51,Duong Tran,Service,service,great,1,Positive,Positive,FALSE,Overhype. I dont like broth at all. I gave up most of my bowl. Service is great but could be not enough space. Ramen is still better.
+rev_23,03/23/2026 18:52:51,Duong Tran,Yusen & Prep,ramen,still better,0.8,Positive,Positive,FALSE,Overhype. I dont like broth at all. I gave up most of my bowl. Service is great but could be not enough space. Ramen is still better.
+rev_26,03/23/2026 14:23:27,Carina Chan,Value,portions,big for the price,0.7,Positive,Positive,FALSE,"I was very excited that Marugame opened up in Toronto. The only time I’ve tried this restaurant was in Waikiki. The portions are big for the price. In Hawaii, there are options for cold/hot broth as well.
+
+The reason for the 3 stars is that I found the udon to be dense and not chewy despite being freshly made.  So that is a big disappointment to me.
+
+The seating is also a bit tight and can be difficult to navigate in/out of your table.
+
+Overall, for the portion you get, it’s a decent value."
+rev_26,03/23/2026 14:23:27,Carina Chan,Seimen,udon,dense and not chewy,-0.9,Negative,Negative,TRUE,"I was very excited that Marugame opened up in Toronto. The only time I’ve tried this restaurant was in Waikiki. The portions are big for the price. In Hawaii, there are options for cold/hot broth as well.
+
+The reason for the 3 stars is that I found the udon to be dense and not chewy despite being freshly made.  So that is a big disappointment to me.
+
+The seating is also a bit tight and can be difficult to navigate in/out of your table.
+
+Overall, for the portion you get, it’s a decent value."
+rev_26,03/23/2026 14:23:27,Carina Chan,Service,seating,a bit tight,-0.4,Negative,Negative,FALSE,"I was very excited that Marugame opened up in Toronto. The only time I’ve tried this restaurant was in Waikiki. The portions are big for the price. In Hawaii, there are options for cold/hot broth as well.
+
+The reason for the 3 stars is that I found the udon to be dense and not chewy despite being freshly made.  So that is a big disappointment to me.
+
+The seating is also a bit tight and can be difficult to navigate in/out of your table.
+
+Overall, for the portion you get, it’s a decent value."
+rev_26,03/23/2026 14:23:27,Carina Chan,Value,value,decent value,0.6,Positive,Positive,FALSE,"I was very excited that Marugame opened up in Toronto. The only time I’ve tried this restaurant was in Waikiki. The portions are big for the price. In Hawaii, there are options for cold/hot broth as well.
+
+The reason for the 3 stars is that I found the udon to be dense and not chewy despite being freshly made.  So that is a big disappointment to me.
+
+The seating is also a bit tight and can be difficult to navigate in/out of your table.
+
+Overall, for the portion you get, it’s a decent value."
+rev_27,03/23/2026 04:45:31,Alan,Seimen,udon,freshly made,0.8,Positive,Positive,FALSE,"The udon was freshly made but was not chewy. The seating arrangements were poorly created but the food was good for what you pay for in DT Toronto. Overall, the quality of udon was subpar and the seating arrangements were too tightly fited."
+rev_27,03/23/2026 04:45:31,Alan,Seimen,udon,not chewy,-0.7,Negative,Negative,TRUE,"The udon was freshly made but was not chewy. The seating arrangements were poorly created but the food was good for what you pay for in DT Toronto. Overall, the quality of udon was subpar and the seating arrangements were too tightly fited."
+rev_27,03/23/2026 04:45:31,Alan,Seimen,udon,quality was subpar,-0.5,Negative,Negative,FALSE,"The udon was freshly made but was not chewy. The seating arrangements were poorly created but the food was good for what you pay for in DT Toronto. Overall, the quality of udon was subpar and the seating arrangements were too tightly fited."
+rev_27,03/23/2026 04:45:31,Alan,Value,udon,good for what you pay,0.8,Positive,Positive,FALSE,"The udon was freshly made but was not chewy. The seating arrangements were poorly created but the food was good for what you pay for in DT Toronto. Overall, the quality of udon was subpar and the seating arrangements were too tightly fited."
+rev_27,03/23/2026 04:45:31,Alan,Service,seating arrangements,poorly created,-0.7,Negative,Negative,TRUE,"The udon was freshly made but was not chewy. The seating arrangements were poorly created but the food was good for what you pay for in DT Toronto. Overall, the quality of udon was subpar and the seating arrangements were too tightly fited."
+rev_27,03/23/2026 04:45:31,Alan,Service,seating arrangements,too tightly fited,-0.6,Negative,Negative,TRUE,"The udon was freshly made but was not chewy. The seating arrangements were poorly created but the food was good for what you pay for in DT Toronto. Overall, the quality of udon was subpar and the seating arrangements were too tightly fited."
+rev_29,03/22/2026 03:59:51,Emily Liu,Yusen & Prep,curry,tasty,0.9,Positive,Positive,FALSE,"Pretty good! Got the #6 and I felt like the curry and the beef were tasty. For the price I would also say this was well worth it. The line moves pretty fast, we went at 4:30 ish and got in within 15 mins. The udon is freshly made and it was chewy and quite delicious. The day we went though they were short on noodles (a bit interesting for a noodle restaurant) so they only served regular size and no large sizes."
+rev_29,03/22/2026 03:59:51,Emily Liu,Yusen & Prep,beef,tasty,0.9,Positive,Positive,FALSE,"Pretty good! Got the #6 and I felt like the curry and the beef were tasty. For the price I would also say this was well worth it. The line moves pretty fast, we went at 4:30 ish and got in within 15 mins. The udon is freshly made and it was chewy and quite delicious. The day we went though they were short on noodles (a bit interesting for a noodle restaurant) so they only served regular size and no large sizes."
+rev_29,03/22/2026 03:59:51,Emily Liu,Value,price,well worth it,0.95,Positive,Positive,FALSE,"Pretty good! Got the #6 and I felt like the curry and the beef were tasty. For the price I would also say this was well worth it. The line moves pretty fast, we went at 4:30 ish and got in within 15 mins. The udon is freshly made and it was chewy and quite delicious. The day we went though they were short on noodles (a bit interesting for a noodle restaurant) so they only served regular size and no large sizes."
+rev_29,03/22/2026 03:59:51,Emily Liu,Service,wait time,moves fast,0.85,Positive,Positive,FALSE,"Pretty good! Got the #6 and I felt like the curry and the beef were tasty. For the price I would also say this was well worth it. The line moves pretty fast, we went at 4:30 ish and got in within 15 mins. The udon is freshly made and it was chewy and quite delicious. The day we went though they were short on noodles (a bit interesting for a noodle restaurant) so they only served regular size and no large sizes."
+rev_29,03/22/2026 03:59:51,Emily Liu,Yusen & Prep,udon,freshly made delicious,0.8,Positive,Positive,FALSE,"Pretty good! Got the #6 and I felt like the curry and the beef were tasty. For the price I would also say this was well worth it. The line moves pretty fast, we went at 4:30 ish and got in within 15 mins. The udon is freshly made and it was chewy and quite delicious. The day we went though they were short on noodles (a bit interesting for a noodle restaurant) so they only served regular size and no large sizes."
+rev_29,03/22/2026 03:59:51,Emily Liu,Yusen & Prep,noodles,short on supply,-0.6,Negative,Negative,TRUE,"Pretty good! Got the #6 and I felt like the curry and the beef were tasty. For the price I would also say this was well worth it. The line moves pretty fast, we went at 4:30 ish and got in within 15 mins. The udon is freshly made and it was chewy and quite delicious. The day we went though they were short on noodles (a bit interesting for a noodle restaurant) so they only served regular size and no large sizes."
+rev_30,03/22/2026 02:31:37,Yijae Chang Chien,Service,wait time,30 mins wait,-0.5,Negative,Negative,FALSE,"We had been waiting for almost a year for the opening! Even it was a bit crowded during grand opening and the waiting time was 30 mins, the food and experience still outperformed! You cannot get a cheaper but good udon elsewhere in Toronto. I would recommend to go with a regular udon and order more tempuras as sides so you don’t get too full. Would definitely come back to try other tempuras in near future."
+rev_30,03/22/2026 02:31:37,Yijae Chang Chien,Value,udon,good and cheap,0.7,Positive,Positive,FALSE,"We had been waiting for almost a year for the opening! Even it was a bit crowded during grand opening and the waiting time was 30 mins, the food and experience still outperformed! You cannot get a cheaper but good udon elsewhere in Toronto. I would recommend to go with a regular udon and order more tempuras as sides so you don’t get too full. Would definitely come back to try other tempuras in near future."
+rev_30,03/22/2026 02:31:37,Yijae Chang Chien,Tempura,tempuras,recommended as sides,0.8,Positive,Positive,FALSE,"We had been waiting for almost a year for the opening! Even it was a bit crowded during grand opening and the waiting time was 30 mins, the food and experience still outperformed! You cannot get a cheaper but good udon elsewhere in Toronto. I would recommend to go with a regular udon and order more tempuras as sides so you don’t get too full. Would definitely come back to try other tempuras in near future."
+rev_32,03/21/2026 23:14:10,Samuel S,Yusen & Prep,udon noodles,great bounce,0.9,Positive,Positive,FALSE,"Udon was great. Great bounce and absorbed all the flavours in the soup. Knocking down one star because the tempura was pretty bad. Used to a light and airy batter with my tempura, but the one we got today was thicker and not too flavourful even with the dipping sauce.
+
+Love the fast food cafeteria style concept. It was great trying it in Japan and loved that they brought it to Canada."
+rev_32,03/21/2026 23:14:10,Samuel S,Seimen,soup,absorbed all flavours,0.9,Positive,Positive,FALSE,"Udon was great. Great bounce and absorbed all the flavours in the soup. Knocking down one star because the tempura was pretty bad. Used to a light and airy batter with my tempura, but the one we got today was thicker and not too flavourful even with the dipping sauce.
+
+Love the fast food cafeteria style concept. It was great trying it in Japan and loved that they brought it to Canada."
+rev_32,03/21/2026 23:14:10,Samuel S,Tempura,tempura,pretty bad,-0.7,Negative,Negative,TRUE,"Udon was great. Great bounce and absorbed all the flavours in the soup. Knocking down one star because the tempura was pretty bad. Used to a light and airy batter with my tempura, but the one we got today was thicker and not too flavourful even with the dipping sauce.
+
+Love the fast food cafeteria style concept. It was great trying it in Japan and loved that they brought it to Canada."
+rev_32,03/21/2026 23:14:10,Samuel S,Service,service,fast food concept,0.9,Positive,Positive,FALSE,"Udon was great. Great bounce and absorbed all the flavours in the soup. Knocking down one star because the tempura was pretty bad. Used to a light and airy batter with my tempura, but the one we got today was thicker and not too flavourful even with the dipping sauce.
+
+Love the fast food cafeteria style concept. It was great trying it in Japan and loved that they brought it to Canada."
+rev_33,03/21/2026 01:32:45,Brian T,Service,owners,best and nicest,0.9,Positive,Positive,FALSE,The best & nicest owners !! Come early before the udon sells out!!
+rev_33,03/21/2026 01:32:45,Brian T,Seimen,udon,sells out quickly,0.8,Positive,Positive,FALSE,The best & nicest owners !! Come early before the udon sells out!!
+rev_34,03/20/2026 21:39:10,Anna-Michelle Paderina,Yusen & Prep,noodles,Amazing noodles,1,Positive,Positive,FALSE,Amazing 10/10 noodles and broth.
+rev_34,03/20/2026 21:39:10,Anna-Michelle Paderina,Seimen,broth,Amazing broth,1,Positive,Positive,FALSE,Amazing 10/10 noodles and broth.
+rev_36,03/19/2026 22:07:20,Fiona,Seimen,udon texture,amazing,1,Positive,Positive,FALSE,"I visited Margame Udon twice even before the grand opening, and I already fell in love with it!
+
+The udon texture is amazing - perfectly chewy and fresh. The shrimp tempura is honestly the best - super crispy and so satisfying. The soup is also very comforting. I always leave feeling so happy after the meal. I’ve even recommended it to my colleagues, and they all loved it too!
+
+I already loved this brand when I had it in Japan, so I was really excited to see it here.
+
+Just a small suggestion - the return area can get a bit messy, and sometimes you have to wait for staff to collect trays before you can leave. Also, tables could be cleaned a bit more frequently, especially during busy times when there are long lines. It might help to have more staff focusing on cleaning.
+
+Overall, still a great experience and I’ll definitely keep coming back!
+- ̗̀ ( ˶'ᵕ'˶) ̖́-"
+rev_36,03/19/2026 22:07:20,Fiona,Tempura,shrimp tempura,best,1,Positive,Positive,FALSE,"I visited Margame Udon twice even before the grand opening, and I already fell in love with it!
+
+The udon texture is amazing - perfectly chewy and fresh. The shrimp tempura is honestly the best - super crispy and so satisfying. The soup is also very comforting. I always leave feeling so happy after the meal. I’ve even recommended it to my colleagues, and they all loved it too!
+
+I already loved this brand when I had it in Japan, so I was really excited to see it here.
+
+Just a small suggestion - the return area can get a bit messy, and sometimes you have to wait for staff to collect trays before you can leave. Also, tables could be cleaned a bit more frequently, especially during busy times when there are long lines. It might help to have more staff focusing on cleaning.
+
+Overall, still a great experience and I’ll definitely keep coming back!
+- ̗̀ ( ˶'ᵕ'˶) ̖́-"
+rev_36,03/19/2026 22:07:20,Fiona,Seimen,soup,comforting,1,Positive,Positive,FALSE,"I visited Margame Udon twice even before the grand opening, and I already fell in love with it!
+
+The udon texture is amazing - perfectly chewy and fresh. The shrimp tempura is honestly the best - super crispy and so satisfying. The soup is also very comforting. I always leave feeling so happy after the meal. I’ve even recommended it to my colleagues, and they all loved it too!
+
+I already loved this brand when I had it in Japan, so I was really excited to see it here.
+
+Just a small suggestion - the return area can get a bit messy, and sometimes you have to wait for staff to collect trays before you can leave. Also, tables could be cleaned a bit more frequently, especially during busy times when there are long lines. It might help to have more staff focusing on cleaning.
+
+Overall, still a great experience and I’ll definitely keep coming back!
+- ̗̀ ( ˶'ᵕ'˶) ̖́-"
+rev_36,03/19/2026 22:07:20,Fiona,Service,return area,messy,-1,Negative,Negative,TRUE,"I visited Margame Udon twice even before the grand opening, and I already fell in love with it!
+
+The udon texture is amazing - perfectly chewy and fresh. The shrimp tempura is honestly the best - super crispy and so satisfying. The soup is also very comforting. I always leave feeling so happy after the meal. I’ve even recommended it to my colleagues, and they all loved it too!
+
+I already loved this brand when I had it in Japan, so I was really excited to see it here.
+
+Just a small suggestion - the return area can get a bit messy, and sometimes you have to wait for staff to collect trays before you can leave. Also, tables could be cleaned a bit more frequently, especially during busy times when there are long lines. It might help to have more staff focusing on cleaning.
+
+Overall, still a great experience and I’ll definitely keep coming back!
+- ̗̀ ( ˶'ᵕ'˶) ̖́-"
+rev_36,03/19/2026 22:07:20,Fiona,Service,table cleaning,needs more frequent,-1,Negative,Negative,TRUE,"I visited Margame Udon twice even before the grand opening, and I already fell in love with it!
+
+The udon texture is amazing - perfectly chewy and fresh. The shrimp tempura is honestly the best - super crispy and so satisfying. The soup is also very comforting. I always leave feeling so happy after the meal. I’ve even recommended it to my colleagues, and they all loved it too!
+
+I already loved this brand when I had it in Japan, so I was really excited to see it here.
+
+Just a small suggestion - the return area can get a bit messy, and sometimes you have to wait for staff to collect trays before you can leave. Also, tables could be cleaned a bit more frequently, especially during busy times when there are long lines. It might help to have more staff focusing on cleaning.
+
+Overall, still a great experience and I’ll definitely keep coming back!
+- ̗̀ ( ˶'ᵕ'˶) ̖́-"
+rev_36,03/19/2026 22:07:20,Fiona,Service,waiting for staff,have to wait,-1,Negative,Negative,TRUE,"I visited Margame Udon twice even before the grand opening, and I already fell in love with it!
+
+The udon texture is amazing - perfectly chewy and fresh. The shrimp tempura is honestly the best - super crispy and so satisfying. The soup is also very comforting. I always leave feeling so happy after the meal. I’ve even recommended it to my colleagues, and they all loved it too!
+
+I already loved this brand when I had it in Japan, so I was really excited to see it here.
+
+Just a small suggestion - the return area can get a bit messy, and sometimes you have to wait for staff to collect trays before you can leave. Also, tables could be cleaned a bit more frequently, especially during busy times when there are long lines. It might help to have more staff focusing on cleaning.
+
+Overall, still a great experience and I’ll definitely keep coming back!
+- ̗̀ ( ˶'ᵕ'˶) ̖́-"
+rev_36,03/19/2026 22:07:20,Fiona,Service,long lines,during busy times,-1,Negative,Negative,TRUE,"I visited Margame Udon twice even before the grand opening, and I already fell in love with it!
+
+The udon texture is amazing - perfectly chewy and fresh. The shrimp tempura is honestly the best - super crispy and so satisfying. The soup is also very comforting. I always leave feeling so happy after the meal. I’ve even recommended it to my colleagues, and they all loved it too!
+
+I already loved this brand when I had it in Japan, so I was really excited to see it here.
+
+Just a small suggestion - the return area can get a bit messy, and sometimes you have to wait for staff to collect trays before you can leave. Also, tables could be cleaned a bit more frequently, especially during busy times when there are long lines. It might help to have more staff focusing on cleaning.
+
+Overall, still a great experience and I’ll definitely keep coming back!
+- ̗̀ ( ˶'ᵕ'˶) ̖́-"
+rev_37,03/19/2026 22:05:50,Alan Siu Kuen Wong,Seimen,soup,too salty,-1,Negative,Negative,TRUE,"Honestly, the UDon is good; but the soup and the Donkatsu are leabing to the salty side. I have a curry chicken. The chicken is over done and dry. Overall it is fine; but not extraordinary. My wife has a beef UDon. It is ok. The surprise is their deep fried shrimp and zucchini. The outside is crunchy and the inside is still juicy These two are great.
+The line is long but it is not a long wait because the turnover is very fast."
+rev_37,03/19/2026 22:05:50,Alan Siu Kuen Wong,Yusen & Prep,Donkatsu,too salty,-1,Negative,Negative,TRUE,"Honestly, the UDon is good; but the soup and the Donkatsu are leabing to the salty side. I have a curry chicken. The chicken is over done and dry. Overall it is fine; but not extraordinary. My wife has a beef UDon. It is ok. The surprise is their deep fried shrimp and zucchini. The outside is crunchy and the inside is still juicy These two are great.
+The line is long but it is not a long wait because the turnover is very fast."
+rev_37,03/19/2026 22:05:50,Alan Siu Kuen Wong,Yusen & Prep,curry chicken,over done dry,-0.8,Negative,Negative,TRUE,"Honestly, the UDon is good; but the soup and the Donkatsu are leabing to the salty side. I have a curry chicken. The chicken is over done and dry. Overall it is fine; but not extraordinary. My wife has a beef UDon. It is ok. The surprise is their deep fried shrimp and zucchini. The outside is crunchy and the inside is still juicy These two are great.
+The line is long but it is not a long wait because the turnover is very fast."
+rev_37,03/19/2026 22:05:50,Alan Siu Kuen Wong,Yusen & Prep,beef Udon,it is ok,0,Neutral,Neutral,FALSE,"Honestly, the UDon is good; but the soup and the Donkatsu are leabing to the salty side. I have a curry chicken. The chicken is over done and dry. Overall it is fine; but not extraordinary. My wife has a beef UDon. It is ok. The surprise is their deep fried shrimp and zucchini. The outside is crunchy and the inside is still juicy These two are great.
+The line is long but it is not a long wait because the turnover is very fast."
+rev_37,03/19/2026 22:05:50,Alan Siu Kuen Wong,Tempura,deep fried shrimp,great,1,Positive,Positive,FALSE,"Honestly, the UDon is good; but the soup and the Donkatsu are leabing to the salty side. I have a curry chicken. The chicken is over done and dry. Overall it is fine; but not extraordinary. My wife has a beef UDon. It is ok. The surprise is their deep fried shrimp and zucchini. The outside is crunchy and the inside is still juicy These two are great.
+The line is long but it is not a long wait because the turnover is very fast."
+rev_37,03/19/2026 22:05:50,Alan Siu Kuen Wong,Tempura,zucchini,great,1,Positive,Positive,FALSE,"Honestly, the UDon is good; but the soup and the Donkatsu are leabing to the salty side. I have a curry chicken. The chicken is over done and dry. Overall it is fine; but not extraordinary. My wife has a beef UDon. It is ok. The surprise is their deep fried shrimp and zucchini. The outside is crunchy and the inside is still juicy These two are great.
+The line is long but it is not a long wait because the turnover is very fast."
+rev_37,03/19/2026 22:05:50,Alan Siu Kuen Wong,Service,wait time,not long wait,0.8,Positive,Positive,FALSE,"Honestly, the UDon is good; but the soup and the Donkatsu are leabing to the salty side. I have a curry chicken. The chicken is over done and dry. Overall it is fine; but not extraordinary. My wife has a beef UDon. It is ok. The surprise is their deep fried shrimp and zucchini. The outside is crunchy and the inside is still juicy These two are great.
+The line is long but it is not a long wait because the turnover is very fast."
+rev_38,03/19/2026 20:09:44,Fare C (FAREvolution),Food,,,0,Neutral,Neutral,FALSE,"Experience is tilting.  This place isn’t a restaurant, more like a cafeteria.  People just steal and hold tables as soon as they walk in.  There you are standing with a tray of food looking for a seat after waiting in line for 15 mins or so.  Hopefully, they manage this problem soon."
+rev_38,03/19/2026 20:09:44,Fare C (FAREvolution),Service,,,0,Neutral,Neutral,FALSE,"Experience is tilting.  This place isn’t a restaurant, more like a cafeteria.  People just steal and hold tables as soon as they walk in.  There you are standing with a tray of food looking for a seat after waiting in line for 15 mins or so.  Hopefully, they manage this problem soon."
+rev_38,03/19/2026 20:09:44,Fare C (FAREvolution),Ambiance,,,0,Neutral,Neutral,FALSE,"Experience is tilting.  This place isn’t a restaurant, more like a cafeteria.  People just steal and hold tables as soon as they walk in.  There you are standing with a tray of food looking for a seat after waiting in line for 15 mins or so.  Hopefully, they manage this problem soon."
+rev_41,03/19/2026 00:35:19,Daniel Frohlich,Seimen,Udon Soup,Amazing,1,Positive,Positive,FALSE,Amazing Udon Soup and the hand made noodles are FABULOUS!
+rev_41,03/19/2026 00:35:19,Daniel Frohlich,Yusen & Prep,hand made noodles,FABULOUS,1,Positive,Positive,FALSE,Amazing Udon Soup and the hand made noodles are FABULOUS!
+rev_42,03/18/2026 21:46:34,Anni Zhou,Value,price,reasonably priced,0.9,Positive,Positive,FALSE,"Yum! Super reasonably priced (their original Kake udon is $6.49 for a reg), good texture of noodle, and the line moves quickly because it’s cafeteria style. From the tempura - shrimp one was best. I do wish the broth was hotter and the seats are kind of hard to maneuver around when they’re all pushed out (hard to walk between tables).
+
+Overall solid spot for a decently priced hot meal in Toronto. I would definitely come back to try the other options!"
+rev_42,03/18/2026 21:46:34,Anni Zhou,Seimen,broth,not hot enough,-0.8,Negative,Negative,TRUE,"Yum! Super reasonably priced (their original Kake udon is $6.49 for a reg), good texture of noodle, and the line moves quickly because it’s cafeteria style. From the tempura - shrimp one was best. I do wish the broth was hotter and the seats are kind of hard to maneuver around when they’re all pushed out (hard to walk between tables).
+
+Overall solid spot for a decently priced hot meal in Toronto. I would definitely come back to try the other options!"
+rev_42,03/18/2026 21:46:34,Anni Zhou,Yusen & Prep,noodle texture,good texture,0.8,Positive,Positive,FALSE,"Yum! Super reasonably priced (their original Kake udon is $6.49 for a reg), good texture of noodle, and the line moves quickly because it’s cafeteria style. From the tempura - shrimp one was best. I do wish the broth was hotter and the seats are kind of hard to maneuver around when they’re all pushed out (hard to walk between tables).
+
+Overall solid spot for a decently priced hot meal in Toronto. I would definitely come back to try the other options!"
+rev_42,03/18/2026 21:46:34,Anni Zhou,Service,wait time,moves quickly,0.8,Positive,Positive,FALSE,"Yum! Super reasonably priced (their original Kake udon is $6.49 for a reg), good texture of noodle, and the line moves quickly because it’s cafeteria style. From the tempura - shrimp one was best. I do wish the broth was hotter and the seats are kind of hard to maneuver around when they’re all pushed out (hard to walk between tables).
+
+Overall solid spot for a decently priced hot meal in Toronto. I would definitely come back to try the other options!"
+rev_42,03/18/2026 21:46:34,Anni Zhou,Tempura,shrimp tempura,was best,0.9,Positive,Positive,FALSE,"Yum! Super reasonably priced (their original Kake udon is $6.49 for a reg), good texture of noodle, and the line moves quickly because it’s cafeteria style. From the tempura - shrimp one was best. I do wish the broth was hotter and the seats are kind of hard to maneuver around when they’re all pushed out (hard to walk between tables).
+
+Overall solid spot for a decently priced hot meal in Toronto. I would definitely come back to try the other options!"
+rev_42,03/18/2026 21:46:34,Anni Zhou,Service,seats,hard to maneuver,-0.7,Negative,Negative,TRUE,"Yum! Super reasonably priced (their original Kake udon is $6.49 for a reg), good texture of noodle, and the line moves quickly because it’s cafeteria style. From the tempura - shrimp one was best. I do wish the broth was hotter and the seats are kind of hard to maneuver around when they’re all pushed out (hard to walk between tables).
+
+Overall solid spot for a decently priced hot meal in Toronto. I would definitely come back to try the other options!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Service,wait time,quick and efficient,0.8,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Yusen & Prep,noodles,hot and chewy,0.9,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Seimen,broth,just right,0.8,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Tempura,deep fried tofu,sweet and flavourful,0.9,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Yusen & Prep,green onions,nicely complemented,0.7,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Tempura,tempura bits,flavorful complement,0.8,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Tempura,fried tempuras,wide variety,0.9,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Tempura,shrimp,best addition,0.9,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_43,03/18/2026 16:45:24,Tiffany Ngan,Value,price,regular $9.49,0.8,Positive,Positive,FALSE,"Been waiting FOREVER for a Marugame close to home since I first tried them in Hawaii! So glad they are now open in Toronto!
+
+Everything about this location is consistent and on par with their other locations (Vancouver, LA). The wait during first day of soft opening was 20 mins, and immediately upon ordering the food, seats had opened up (quick, turnkey)!
+
+I ordered my favourite Kitsune Udon (regular $9.49), noodles were hot and chewy, broth was just right, the deep fried tofu was sweet and flavourful— nicely complemented with the green onions and tempura bits. There is a wide variety of fried tempuras to choose from, but the you always have to get the shrimp as it’s the best addition to the noodles!
+
+I can’t wait to go back again for the other menu items, you can’t go wrong when it comes to Marugame!"
+rev_44,03/18/2026 16:22:43,Kevin Cox,Seimen,Udon,Good,0.8,Positive,Positive,FALSE,"Good udon and great tempura. My only minor complaint is that all of the soup options are on the sweeter side which I don't prefer. But I think that is authentic to the style.
+
+Also love that they don't ask for a tip. Makes checkout so nice and quick."
+rev_44,03/18/2026 16:22:43,Kevin Cox,Tempura,Tempura,great,0.9,Positive,Positive,FALSE,"Good udon and great tempura. My only minor complaint is that all of the soup options are on the sweeter side which I don't prefer. But I think that is authentic to the style.
+
+Also love that they don't ask for a tip. Makes checkout so nice and quick."
+rev_44,03/18/2026 16:22:43,Kevin Cox,Seimen,Soup,sweet side,-0.8,Negative,Negative,TRUE,"Good udon and great tempura. My only minor complaint is that all of the soup options are on the sweeter side which I don't prefer. But I think that is authentic to the style.
+
+Also love that they don't ask for a tip. Makes checkout so nice and quick."
+rev_44,03/18/2026 16:22:43,Kevin Cox,Service,Service,"not ask tip, checkout quick",0.85,Positive,Positive,FALSE,"Good udon and great tempura. My only minor complaint is that all of the soup options are on the sweeter side which I don't prefer. But I think that is authentic to the style.
+
+Also love that they don't ask for a tip. Makes checkout so nice and quick."
+rev_47,03/18/2026 14:06:37,David L,Seimen,udon,"standard, nothing wrong",0,Neutral,Neutral,FALSE,"Tried Marugame Udon during soft opening. Overall, it’s decent—but not something I’d go out of my way for.
+
+The setup is very cafeteria-style: you move down the line, pick your udon, then add tempura and sides. Efficient, but not exactly a “sit-down” experience.
+
+Food:
+•	The udon itself is standard—nothing wrong, but nothing memorable either.
+•	The curry leaned more floral and had a thick, starchy consistency rather than a rich, saucy texture I was expecting.
+•	Portioning was a bit disappointing. Even ordering a large, you mostly just get more noodles—not much extra meat. The pork and beef portions felt pretty skimpy.
+•	Chicken karaage was a letdown—served cold and cut into small pieces.
+•	The standout was definitely the tempura: light, crispy, and a solid variety. Easily the best part of the meal.
+
+Value:
+Paid about $50 for two without drinks, which feels steep for what you get. Having been to Japan multiple times, this is easily 2x the price for a lower overall quality experience.
+
+Final thoughts:
+It’s convenient, the location is great, and it scratches the itch if you’re craving quick Japanese comfort food—but expectations should be tempered. There’s potential, especially if they fix consistency and portioning."
+rev_48,03/18/2026 02:56:09,Maggie Chu,Yusen & Prep,QUICKNESS,fast handling,0.7,Positive,Positive,FALSE,"Came at 4:45 for the soft opening and seems like half of Toronto also had the same idea cuz it was PACKED. Despite that the Marugame team had the line moving with QUICKNESS.
+Food was stellar. Had the beef udon and its dipping sauce counterpart. Staff super friendly. Quality of tempura sooo delish with the crunch. It’s giving I’m back in a udon spot in Japan, hello!"
+rev_48,03/18/2026 02:56:09,Maggie Chu,Seimen,beef udon,stellar food,0.9,Positive,Positive,FALSE,"Came at 4:45 for the soft opening and seems like half of Toronto also had the same idea cuz it was PACKED. Despite that the Marugame team had the line moving with QUICKNESS.
+Food was stellar. Had the beef udon and its dipping sauce counterpart. Staff super friendly. Quality of tempura sooo delish with the crunch. It’s giving I’m back in a udon spot in Japan, hello!"
+rev_48,03/18/2026 02:56:09,Maggie Chu,Yusen & Prep,dipping sauce,excellent sauce,0.8,Positive,Positive,FALSE,"Came at 4:45 for the soft opening and seems like half of Toronto also had the same idea cuz it was PACKED. Despite that the Marugame team had the line moving with QUICKNESS.
+Food was stellar. Had the beef udon and its dipping sauce counterpart. Staff super friendly. Quality of tempura sooo delish with the crunch. It’s giving I’m back in a udon spot in Japan, hello!"
+rev_48,03/18/2026 02:56:09,Maggie Chu,Service,staff,very friendly,0.9,Positive,Positive,FALSE,"Came at 4:45 for the soft opening and seems like half of Toronto also had the same idea cuz it was PACKED. Despite that the Marugame team had the line moving with QUICKNESS.
+Food was stellar. Had the beef udon and its dipping sauce counterpart. Staff super friendly. Quality of tempura sooo delish with the crunch. It’s giving I’m back in a udon spot in Japan, hello!"
+rev_48,03/18/2026 02:56:09,Maggie Chu,Tempura,tempura,delicious quality,0.95,Positive,Positive,FALSE,"Came at 4:45 for the soft opening and seems like half of Toronto also had the same idea cuz it was PACKED. Despite that the Marugame team had the line moving with QUICKNESS.
+Food was stellar. Had the beef udon and its dipping sauce counterpart. Staff super friendly. Quality of tempura sooo delish with the crunch. It’s giving I’m back in a udon spot in Japan, hello!"
+rev_50,03/17/2026 20:22:02,Thanuja V,Seimen,udon,perfectly chewy noodles,0.9,Positive,Positive,FALSE,"This popular udon chain is now in downtown Toronto. They offer udon made fresh daily along with don as well. Thr udon is perfectly chewy noodles, and the menu features rich, comforting flavour pairings.  I really enjoyed the chicken katsu udon option.  Simple, authentic, and so satisfying onna cold day.  They even have a tempura station and sauce station too on the other side of the restaurant. Make sure to check it out. The perfect comfort food!"
+rev_50,03/17/2026 20:22:02,Thanuja V,Seimen,menu flavour pairings,"rich, comforting flavour",0.9,Positive,Positive,FALSE,"This popular udon chain is now in downtown Toronto. They offer udon made fresh daily along with don as well. Thr udon is perfectly chewy noodles, and the menu features rich, comforting flavour pairings.  I really enjoyed the chicken katsu udon option.  Simple, authentic, and so satisfying onna cold day.  They even have a tempura station and sauce station too on the other side of the restaurant. Make sure to check it out. The perfect comfort food!"
+rev_50,03/17/2026 20:22:02,Thanuja V,Seimen,chicken katsu udon,really enjoyed,0.9,Positive,Positive,FALSE,"This popular udon chain is now in downtown Toronto. They offer udon made fresh daily along with don as well. Thr udon is perfectly chewy noodles, and the menu features rich, comforting flavour pairings.  I really enjoyed the chicken katsu udon option.  Simple, authentic, and so satisfying onna cold day.  They even have a tempura station and sauce station too on the other side of the restaurant. Make sure to check it out. The perfect comfort food!"
+rev_50,03/17/2026 20:22:02,Thanuja V,Tempura,tempura station,available,0.9,Positive,Positive,FALSE,"This popular udon chain is now in downtown Toronto. They offer udon made fresh daily along with don as well. Thr udon is perfectly chewy noodles, and the menu features rich, comforting flavour pairings.  I really enjoyed the chicken katsu udon option.  Simple, authentic, and so satisfying onna cold day.  They even have a tempura station and sauce station too on the other side of the restaurant. Make sure to check it out. The perfect comfort food!"
+rev_54,03/16/2026 23:08:13,Paul Nguyen,Yusen & Prep,niku udon,favorite dish,1,Positive,Positive,FALSE,"Amazing franchise had it all over the world !
+
+Their niku udon is my favourite along side with their squid tempura.
+
+Definitely recommend!"
+rev_54,03/16/2026 23:08:13,Paul Nguyen,Tempura,squid tempura,favorite dish,1,Positive,Positive,FALSE,"Amazing franchise had it all over the world !
+
+Their niku udon is my favourite along side with their squid tempura.
+
+Definitely recommend!"
+rev_57,03/21/2026 03:07:37,Marco C,Yusen & Prep,咖喱饭,very good taste,1,Positive,Positive,FALSE,点了个咖喱饭，味道很好。天妇罗虾外脆里嫩。
+rev_57,03/21/2026 03:07:37,Marco C,Tempura,天妇罗虾,crispy and tender,1,Positive,Positive,FALSE,点了个咖喱饭，味道很好。天妇罗虾外脆里嫩。

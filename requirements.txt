@@ -1,0 +1,12 @@
+# Core
+streamlit>=1.30.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# Data Collection
+outscraper>=4.0.0
+
+# AI / NLP
+ollama>=0.1.0
+groq>=1.0.0
+tqdm>=4.60.0
